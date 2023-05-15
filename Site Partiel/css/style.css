@@ -1,0 +1,23 @@
+h1 {
+    text-align: left;
+    align-items: center;
+}
+
+.intro {
+    text-align: left;
+    align-items: center;
+}
+
+.btnintro {
+    text-align: left;
+    align-items: center;
+}
+
+.bar {
+    text-align: center;
+    align-items: center;
+}
+
+.hello {
+    background-color: gray;
+}
